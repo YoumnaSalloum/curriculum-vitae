@@ -1,5 +1,5 @@
 # Youmna Salloum
-**Software Development Engineer** · Amman, Jordan
+**Software Development Engineer** ·
 
 > "A problem solver who chooses a tricky bug over chocolate any day."
 
@@ -58,9 +58,10 @@ Open-source, AI-native Git assistant powered by [Google Gemini](https://gemini.g
 * Web app to save and manage personal notes, built with React.
 
 ## Achievements
-* **[The App Challenge](https://www.facebook.com/AppChallengeJo/) (2015):** game design competition, 3rd place across Jordan.
-* **[ACM Arabella](https://icpc.global/regionals/finder/arabellacpc-2018) (2018, 2019):** problem-solving competition.
 * **[ACM-JCPC](https://www.facebook.com/JordanCPC/) (2018):** problem-solving competition.
+* **[ACM Arabella](https://icpc.global/regionals/finder/arabellacpc-2018) (2018, 2019):** problem-solving competition.
+* * **[The App Challenge](https://www.facebook.com/AppChallengeJo/) (2015):** game design competition, 3rd place across Jordan.
+
 
 ## Courses
 * **Oracle Databases, [Zarqa University](http://www.zu.edu.jo/):** creating and securing databases, designing table relations, and managing records.
