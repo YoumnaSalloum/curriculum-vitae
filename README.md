@@ -60,7 +60,7 @@ Open-source, AI-native Git assistant powered by [Google Gemini](https://gemini.g
 ## Achievements
 * **[ACM-JCPC](https://www.facebook.com/JordanCPC/) (2018):** problem-solving competition.
 * **[ACM Arabella](https://icpc.global/regionals/finder/arabellacpc-2018) (2018, 2019):** problem-solving competition.
-* * **[The App Challenge](https://www.facebook.com/AppChallengeJo/) (2015):** game design competition, 3rd place across Jordan.
+* **[The App Challenge](https://www.facebook.com/AppChallengeJo/) (2015):** game design competition, 3rd place across Jordan.
 
 
 ## Courses
